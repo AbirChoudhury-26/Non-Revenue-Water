@@ -1,0 +1,58 @@
+ <section class="select">
+                <table class="table">
+                    <tr>
+                        <th>select ward no.</th>
+                        <th>select particular area aloted to ward no.</th>
+                    </tr>
+                    <tr>
+                        <td><select name="" id="">
+                         <option value="">select</option>
+                         <option value="">ward 1</option>
+                         <option value="">ward 2</option>
+                         <option value="">ward 3</option>
+                         <option value="">ward 4</option>
+                         <option value="">ward 5</option>
+                         <option value="">ward 6</option>
+                         <option value="">ward 7</option>
+                         <option value="">ward 8</option>
+                         <option value="">ward 9</option>
+                         <option value="">ward 10</option>
+                         <option value="">ward 11</option>
+                         <option value="">ward 12</option>
+                         <option value="">ward 13</option>
+                        <option value="">ward 14</option>
+                        <option value="">ward 15</option>
+        
+                        <option value="">ward 16</option>
+                        <option value="">ward 17</option>
+        
+                        <option value="">ward 18</option>
+                     </select>
+        
+                     <td><select name="" id="">
+                         <option value="">select area</option>
+                         <option value="">	1493,नीमच माता स्कीम, देवाली, उदयपुर</option>
+                         <option value="">303,अम्बामाता स्कीम, उदयपुर</option>
+                         <option value="">6-ए सहेली नगर ,उदयपुर</option>
+                         <option value="">	7-सी, नीमच माता स्कीम, देवाली, उदयपुर</option>
+                         <option value="">नानी गली ,कँवरपदा मार्ग, उदयपुर</option>
+                         <option value="">178,ओड़ कॉलोनी,गली न. 2,अम्बामाता ,उदयपुर</option>
+                         <option value="">206,रजा कॉलोनी, मल्ला तलाई ,उदयपुर</option>
+                         <option value="">2511,सज्जन नगर,मस्तान बाबा,उदयपुर</option>
+                         <option value="">157,भीलू राणा कॉलोनी, सज्जनगढ़ रोड, उदयपुर</option>
+                         <option value="">305,राताखेत,प्रेरणा स्कूल बाल शिक्षा सदन,रामपुरा चौराहा से पहले, उदयपुर</option>
+                         <option value="">एकलव्य कॉलोनी, मल्ला तलाई, उदयपुर</option>
+                         <option value="">60,आचार्य मार्ग, चांदपोल बाहर,उदयपुर</option>
+                         <option value="">50,किशनपोल, आबकारी ऑफिस के पास,उदयपुर</option>
+                         <option value="">पटेल सर्कल, दीवान शाह कॉलोनी, गली न. 7,उदयपुर</option>
+                         <option value="">1-क-2,माछला मगरा स्कीम, उदयपुर</option>
+                         <option value="">	620,कैलाश कॉलोनी, गली न. 3,माछला मगरा, उदयपुर</option>
+                         <option value="">21,टाउन हॉल लिंक रोड़, तृतीय मंजिल, महावीर प्लाजा बिल्डिंग, उदयपुर</option>
+                         <option value="">5, शांति नगर, आदिनाथ नगर,आई ब्लॉक, हिरण मगरी ,सेक्टर 14,उदयपुर</option>
+        
+                     </select></td>
+                 
+                    </tr>
+        
+                </table>
+             </section>
