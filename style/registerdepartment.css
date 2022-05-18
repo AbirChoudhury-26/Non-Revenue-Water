@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 60px;
+}
+
+.nav-bar {
+    height: 60px;
+    width: 100%;
+    background-color: rgba(66, 71, 55, 0.185);
+}
+
+.nav ul {
+    float: right;
+}
+.nav li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.nav li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.nav ul li a:hover {
+    font-size: 15px;
+}
+
+
+.registration {
+    width: 70%;
+    margin-left: 16%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    background: rgba(66, 71, 55, 0.185);
+}
+.registration input {
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.point {
+    margin-top: 50px;
+    text-transform: capitalize;
+    color: red;
+    text-align: center;
+
+}
+
+.point a {
+    text-decoration: none;
+    color: green;
+
+}
+
+.registration h2 {
+    text-transform: uppercase;
+    font-weight: 400px;
+}
+
+.submit {
+    text-transform: uppercase;
+    padding: 10px;
+}

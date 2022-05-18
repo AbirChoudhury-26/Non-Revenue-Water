@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 60px;
+}
+
+.nav-bar {
+    height: 60px;
+    width: 100%;
+    background-color: rgba(66, 71, 55, 0.185);
+}
+
+.nav ul {
+    float: right;
+}
+.nav li {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.nav li a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #000;
+}
+
+.nav ul li a:hover {
+    font-size: 15px;
+}
